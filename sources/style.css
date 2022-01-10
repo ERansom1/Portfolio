@@ -103,12 +103,12 @@ a {
     color: #ffffff;
 }
 
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3  {
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3, .iframe  {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefit-lead img, .benefit-brand img, .benefit-cost img, .iframe {
     display: block;
     margin: 10px auto;
     max-width: 150px;
