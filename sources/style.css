@@ -7,14 +7,14 @@
 
 
 body {
-    background-color: #d9dcd6;
+       background-color: #0d0f0b;
     
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #5c0f88;
     color: #ffffff;    
     display: flex;
     
@@ -56,11 +56,11 @@ a {
 
 /*changes*/
 
-.hero {
+.hero { 
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("https://learn.g2.com/hubfs/What_is_Information_Technology.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -93,12 +93,12 @@ a {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #5c0f88;
 }
 
 /*consolidate*/
 
-.benefit-lead, .benefit-brand,.benefit-cost {
+.benefit-lead, .benefit-brand,.benefit-cost, .iframe {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -118,23 +118,23 @@ a {
 
 /*Main*/
 /*consolidate css*/
-.About-ME, .online-reputation-management, .social-media-marketing {
+.About-ME, .My-Work, .Contact-Me {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #5c0f88;
     color: #ffffff;
 }
 
 /*consolidate css*/
-.About-ME img, .online-reputation-management img,.social-media-marketing img {
+.About-ME img, .My-Work img, .Contact-Me img {
     max-height: 200px;
 }
 
 /*consolidate css*/
 
-.online-reputation-management h2, .social-media-marketing h2,.About-ME h2 {
+.My-Work h2, .Contact-Me h2,.About-ME h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -145,6 +145,8 @@ a {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #5c0f88;
+    color: #ffffff;
     text-align: center;
 }
 
